@@ -1,0 +1,33 @@
+{
+  "name": "examen-api",
+  "version": "1.0.0",
+  "description": "Examen programado numero 2, rest api hecha con express mySql and node.js",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wems99/RestApi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "Allen Blanco y Tere Solano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wems99/RestApi/issues"
+  },
+  "homepage": "https://github.com/wems99/RestApi#readme"
+}

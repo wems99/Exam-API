@@ -1,2 +1,4 @@
 # Exam-API
-This is an API developed with Express, mySQL, mySQL and tested using POSTMAN
+  This API was developed using Express, a popular Node.js framework, and MySQL, a powerful relational database management system. By leveraging these technologies, we were able to create a fast, reliable, and scalable API that could handle large amounts of data and support a variety of use cases.
+  To ensure the API was functioning as expected, we tested it using POSTMAN, a popular API testing tool. Through extensive testing and debugging, we were able to identify and resolve any issues or bugs, ensuring that the API was running smoothly and efficiently.
+  Overall, this API represents a successful application of modern web development technologies, and serves as a testament to the power and versatility of Express and MySQL. With this API, we were able to provide a reliable and efficient solution to our clients, while also showcasing our expertise in full-stack web development.
